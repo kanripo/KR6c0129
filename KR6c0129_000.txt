@@ -1,0 +1,4 @@
+#-*- mode: mandoku-view; -*-
+#+TITLE: 普遍智藏般若波羅蜜多心經
+#+DATE: 2015-08-30 19:46:00.452868
+#+PROPERTY: JUAN 0
