@@ -1,19 +1,18 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 19:46:00.263273
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 7:29
 #+TITLE: 普遍智藏般若波羅蜜多心經
 #+PROPERTY: CBETA_ID T08n0252
 #+PROPERTY: ID KR6c0129
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 08, No. 252
 #+PROPERTY: VOL 08
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS master
 #+PROPERTY: LASTPB <pb:KR6c0129_T_001-0849a> 
 #+PROPERTY: JUAN 1
 ¶
 ¶
-No.252[Nos.250,251,253-255,257]¶
-
- 《普遍智藏般若波羅蜜多心經》¶
+No. 252 [Nos. 250, 251, 253-255, 257]¶
+《普遍智藏般若波羅蜜多心經》¶
 ¶
 摩竭提國三藏沙門法月重譯¶
 
