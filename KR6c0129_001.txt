@@ -1,5 +1,5 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 19:46:00.834187
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 7:29
 #+TITLE: 普遍智藏般若波羅蜜多心經
 #+PROPERTY: CBETA_ID T08n0252
 #+PROPERTY: ID KR6c0129
